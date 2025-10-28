@@ -36,9 +36,9 @@
 
 ## Conclusion
 
-<img width="520" height="749" alt="image" src="https://github.com/user-attachments/assets/ffc109cc-7141-4bd4-8f7b-c111d5147007" />
+<img width="300 height="130" alt="image" src="https://github.com/user-attachments/assets/ffc109cc-7141-4bd4-8f7b-c111d5147007" />
 
-  - 기존 문서 처리의 문제점
+  - 기존 문서 처리의 문제점 보완
     보고서, 실험결과, 행정서류 등은 이미지나 스캔 형태로 제출되는 경우가 많아
     교수자나 조교가 직접 내용을 확인하고 정리하는 데 많은 시간과 노력이 필요함
   - 사용자 친화적 인터페이스 제공
