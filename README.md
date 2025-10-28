@@ -35,8 +35,8 @@
 
 
 ## Conclusion
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/fc8f7d63-91d8-4ebb-b515-aabb464e8fde" />
 
-<img width="300 height="130" alt="image" src="https://github.com/user-attachments/assets/ffc109cc-7141-4bd4-8f7b-c111d5147007" />
 
   - 기존 문서 처리의 문제점 보완
     보고서, 실험결과, 행정서류 등은 이미지나 스캔 형태로 제출되는 경우가 많아
