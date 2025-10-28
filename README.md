@@ -14,7 +14,7 @@
   - Word, Excel, PDF 등 다양한 문서와의 연동 기능이 미흡
   
 ## System Design
-<img width="400" height="170" alt="image" src="https://github.com/user-attachments/assets/72c5b031-509e-4fab-a477-cc9e9e36f143" />
+<img width="200" height="80" alt="image" src="https://github.com/user-attachments/assets/72c5b031-509e-4fab-a477-cc9e9e36f143" />
 
   - ### System Requirements
     - 문서 자동 인식 및 데이터화 → EasyOCR 기반 이미지 텍스트 자동 추출
