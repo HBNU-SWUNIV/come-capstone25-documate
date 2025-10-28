@@ -8,7 +8,7 @@
 ## <u>Teamate</u> Project Background
 - ### 필요성
   - 사용자가 이미지 내 텍스트를 더욱 정확하게 추출
-  - 추출된 데이터를 다양한 파일 형식(PDF, DOCX, EXCEL)으로 손쉽게 저장 및 편집
+  - 추출된 데이터를 다양한 파일 형식(PDF, WORD, EXCEL)으로 손쉽게 저장 및 편집
 - ### 기존 해결책의 문제점
   - 다양한 서체와 폰트가 혼재된 환경에서는 여전히 인식률 저하와 같은 한계
   - Word, Excel, PDF 등 다양한 문서와의 연동 기능이 미흡
@@ -35,6 +35,9 @@
 
 
 ## Conclusion
+
+<img width="520" height="749" alt="image" src="https://github.com/user-attachments/assets/ffc109cc-7141-4bd4-8f7b-c111d5147007" />
+
   - 기존 문서 처리의 문제점
     보고서, 실험결과, 행정서류 등은 이미지나 스캔 형태로 제출되는 경우가 많아
     교수자나 조교가 직접 내용을 확인하고 정리하는 데 많은 시간과 노력이 필요함
